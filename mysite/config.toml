@@ -1,0 +1,20 @@
+# 基本信息
+
+baseurl = "http://learnbetter.club/"
+languageCode = "en-us"
+title = "learn better， learn more"
+paginate = 10
+theme ="crisp"
+
+[params]
+    description = "Learn more, Lear better"
+    email = "penn201500@gmail.com"
+    #ga = "UA-70879474-1"
+    #hostname = "learnbetter.club"
+
+[permalinks]
+    post = "/:year/:month/:filename/"
+
+[author]
+    name = "penn"
+    email = "penn201500@gmail.com"
