@@ -34,3 +34,10 @@ Related documents only works with my Hugo fork [zenithar/hugo](https://github.co
 
 ![Post](https://raw.github.com/kathyqian/crisp-ghost-theme/master/screenshots/post.png)
 ![Comments](https://raw.github.com/kathyqian/crisp-ghost-theme/master/screenshots/post-2.png)
+
+
+
+
+after customization, it will be like this:
+[Demo](www.learnbetter.club)
+![www.learnbetter.club](http://o7ubfyghw.bkt.clouddn.com/learnbetter%20blog%20snapshot.jpg)
