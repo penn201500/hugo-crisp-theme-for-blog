@@ -40,4 +40,4 @@ Related documents only works with my Hugo fork [zenithar/hugo](https://github.co
 
 after customization, it will be like this:
 [Demo](www.learnbetter.club)
-![www.learnbetter.club](http://o7ubfyghw.bkt.clouddn.com/learnbetter%20blog%20snapshot.jpg)
+![learnbetter](http://o7ubfyghw.bkt.clouddn.com/learnbetter%20blog%20snapshot.jpg)
