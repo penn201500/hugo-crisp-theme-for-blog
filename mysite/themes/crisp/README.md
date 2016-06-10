@@ -34,5 +34,3 @@ Related documents only works with my Hugo fork [zenithar/hugo](https://github.co
 
 ![Post](https://raw.github.com/kathyqian/crisp-ghost-theme/master/screenshots/post.png)
 ![Comments](https://raw.github.com/kathyqian/crisp-ghost-theme/master/screenshots/post-2.png)
-
-
