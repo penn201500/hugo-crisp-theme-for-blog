@@ -31,13 +31,21 @@ body,html
 
 ```
 
+<<<<<<< HEAD
 
+=======
+<p/>
+<p/>
+>>>>>>> origin/master
 ## **修改侧边栏布局**
 侧边栏不想要头像？想添加links？只要github follow？ 
 下面介绍如何实现这些需求
 
 **1.去掉头像**
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 编辑layouts/partial目录下的header.html文件：
 如：E:\github_projects\my_blogs\mysite\themes\hugo-theme-crisp\layouts\partials
 
@@ -56,7 +64,10 @@ id = "logo"的这一行既是图片信息，替换图片，则将 imgsrc 连接�
 <p/>
 <p/>
 **2. 添加links**
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 可以参考配置文件：https://github.com/penn201500/hugo-crisp-theme-for-blog/blob/master/mysite/themes/crisp/layouts/partials/navigation.html
 将与header.html同目录的navigation.html文件修改为：
 
@@ -85,7 +96,10 @@ id = "logo"的这一行既是图片信息，替换图片，则将 imgsrc 连接�
 <p/>
 <p/>
 **3. 只需要github follow**
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 crisp主题的follow方式有facebook，twitter，linkedin，github，google+, rss 。
 下面介绍如何只留github follow方式（添加或删除其他的follow方式类似）
 将同目录下的follow.html修改如下：
