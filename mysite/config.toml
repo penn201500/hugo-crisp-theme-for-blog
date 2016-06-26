@@ -9,7 +9,7 @@ theme ="crisp"
 [params]
     description = "Learn more, Lear better"
     email = "penn201500@gmail.com"
-    #ga = "UA-70879474-1"
+    ga = "UA-79129383-1"
     #hostname = "learnbetter.club"
 
 [permalinks]

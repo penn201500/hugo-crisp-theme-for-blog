@@ -1,0 +1,20 @@
+<HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="100%" color=#987cb9 SIZE=3>
+
+<section>
+<ul >
+    {{ if .PrevInSection }}
+        <li>
+        <font size="5" color="green"><b>Next:</b></font>
+        <a href="{{ .PrevInSection.Permalink }}"
+                class="button big previous">{{ .PrevInSection.Title }}</a></li>
+    {{ end }}
+
+    
+    {{ if .NextInSection }}   
+        <li>
+        <font size="5" color="green"><b>Prev:</b></font>
+        <a href="{{ .NextInSection.Permalink }}"
+                class="button big next">{{ .NextInSection.Title }}</a></li>
+    {{ end }}
+</ul>
+</section>
