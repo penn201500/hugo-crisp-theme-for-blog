@@ -4,7 +4,7 @@ Description = "如何使用hugo搭建个人博客"
 Tags = ["Hugo"]
 title = "如何使用hugo搭建个人博客（一）：在win7上使用hugo"
 comments = true
-date = 2016-06-06T05:04:40Z
+date = 2016-06-12T19:04:40Z
 +++
 
 如何使用hugo搭建个人博客？

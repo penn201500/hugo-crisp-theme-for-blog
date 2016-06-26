@@ -4,7 +4,7 @@ Description = "如何使用hugo搭建个人博客"
 Tags = ["Hugo"]
 title = "如何使用hugo搭建个人博客（四）：添加评论系统disqus"
 comments = true
-date = 2016-06-06T05:04:40Z
+date = 2016-06-16T15:04:40Z
 +++
 
 按照官方说法，只需要在config.toml文件中加上disqus的shortname即可让博客拥有disqus评论系统的功能。但折腾许久未能成功，现提供另一种添加disqus的方式。

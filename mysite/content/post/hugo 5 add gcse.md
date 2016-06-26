@@ -4,7 +4,7 @@ Description = "如何使用hugo搭建个人博客"
 Tags = ["Hugo"]
 title = "如何使用hugo搭建个人博客（五）：添加站内搜索（gcse）"
 comments = true
-date = 2016-06-06T05:04:40Z
+date = 2016-06-17T21:04:40Z
 +++
 
 站内搜索推荐使用google custom search engine(gsce)。

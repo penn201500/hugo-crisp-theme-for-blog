@@ -4,7 +4,7 @@ Description = "如何使用hugo搭建个人博客"
 Tags = ["Hugo"]
 title = "如何使用hugo搭建个人博客（二）：修改主题：颜色，字体，布局"
 comments = true
-date = 2016-06-06T05:04:40Z
+date = 2016-06-14T10:04:40Z
 +++
 
 上一篇博文中谈到了如何在本地使用hugo预览特定主题crisp，本文介绍主题的颜色，字体，布局的修改。

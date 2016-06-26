@@ -4,7 +4,7 @@ Description = "如何使用hugo搭建个人博客"
 Tags = ["Hugo"]
 title = "如何使用hugo搭建个人博客（三）：添加follow与修改share的方式"
 comments = true
-date = 2016-06-06T05:04:40Z
+date = 2016-06-15T12:04:40Z
 +++
 
 本文继续介绍如何添加follow方式与修改share的方式。
